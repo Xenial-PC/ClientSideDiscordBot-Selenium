@@ -1,0 +1,11 @@
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\bin\Release\ClientSideDiscordBot.exe.config
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\bin\Release\ClientSideDiscordBot.exe
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\bin\Release\ClientSideDiscordBot.pdb
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\bin\Release\WebDriver.dll
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\bin\Release\WindowsInput.dll
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\bin\Release\WebDriver.xml
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\obj\Release\ClientSideDiscordBot.csprojAssemblyReference.cache
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\obj\Release\ClientSideDiscordBot.csproj.CoreCompileInputs.cache
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\obj\Release\ClientSideDiscordBot.csproj.CopyComplete
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\obj\Release\ClientSideDiscordBot.exe
+F:\VSRepos\VSStudio\C#\ClientSideDiscordBot\obj\Release\ClientSideDiscordBot.pdb
