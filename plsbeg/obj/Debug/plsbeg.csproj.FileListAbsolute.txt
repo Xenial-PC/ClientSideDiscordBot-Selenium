@@ -1,0 +1,15 @@
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\plsbeg.exe.config
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\plsbeg.exe
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\plsbeg.pdb
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\ClientSideDiscordBot.exe
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\WebDriver.dll
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\WindowsInput.dll
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\ClientSideDiscordBot.pdb
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\ClientSideDiscordBot.exe.config
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\WebDriver.xml
+F:\VSRepos\VSStudio\C#\plsbeg\obj\Debug\plsbeg.csprojAssemblyReference.cache
+F:\VSRepos\VSStudio\C#\plsbeg\obj\Debug\plsbeg.csproj.CoreCompileInputs.cache
+F:\VSRepos\VSStudio\C#\plsbeg\obj\Debug\plsbeg.csproj.CopyComplete
+F:\VSRepos\VSStudio\C#\plsbeg\obj\Debug\plsbeg.exe
+F:\VSRepos\VSStudio\C#\plsbeg\obj\Debug\plsbeg.pdb
+F:\VSRepos\VSStudio\C#\plsbeg\bin\Debug\chromedriver.exe
