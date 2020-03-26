@@ -17,8 +17,8 @@ Commands:
   * ;ping - A fun command that pings the host computer with a noise
   * ;count min, max - has to be seperated by a number or it wont work
   * ;date - prints the current date
-  * ;test - to make sure the bits working by printing the work Test!
-  * ;game (guess) - from 1 to 10 if they guess right the hosts pc will go to sleep fun but scary game
+  * ;test - to make sure the bots working by printing the work Test!
+  * ;game (guess) - from 1 to 10 if they guess right the hosts pc will go to sleep
 
 ### Coming Soon!
 * Message Logger
