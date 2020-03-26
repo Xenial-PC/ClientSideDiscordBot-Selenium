@@ -8,6 +8,7 @@ Discord self bot made with C# and selenium I will keep updating this as I contin
 This uses Automation as the way to communicate so it runs through a browser hope you enjoy :)
 make sure to fix the NuGet packages when adding plsbeg back to the project
 
+want to see whats happening with this bot go to https://trello.com/b/uYn2epz1/clientsidediscordbot
 ### Version 0.1a
 Commands:
   * ;cmds or ;help - will print the commands below
