@@ -24,4 +24,4 @@ Commands:
 * Message Logger
 * Message Spammer
 * Emoji spammer
-* NSFW Spammer
+* Server Admin commands coming also
